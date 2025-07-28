@@ -1,2 +1,2 @@
 # MYPROJECT
-it is first lab experiment
+it is first project
